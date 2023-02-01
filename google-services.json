@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "310863452546",
+    "project_id": "rockthelp-822bc",
+    "storage_bucket": "rockthelp-822bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310863452546:android:10d14ff2f65551a733179b",
+        "android_client_info": {
+          "package_name": "com.tibirabotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310863452546-8n6herjdfb0cvcpci5r14d71iuq360r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeM0xWwBmu8WdO_WD5pQ74_SHXqBkAHS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310863452546-8n6herjdfb0cvcpci5r14d71iuq360r9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310863452546-82itg91a4gpr63jtgiafkiisgq6n6k1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tibirabotto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

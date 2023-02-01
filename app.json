@@ -5,6 +5,18 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "plugins": [
+      "@react-native-firebase/app"
+
+    ],
+    "android": {
+      "package": "com.tibirabotto",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.tibirabotto",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
   }
 }
